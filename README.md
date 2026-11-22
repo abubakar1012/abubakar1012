@@ -1,4 +1,4 @@
-Muhammad Abu bakar Zahid
+# Muhammad Abu bakar Zahid
 
 Aspiring Penetration Tester | Red Teaming | Offensive Security
 
@@ -91,9 +91,7 @@ Long-Term Direction
 
 🏆 Certifications
 
-HackerRank — Python (Basic)
-
-"View Certificate" (https://www.hackerrank.com/certificates/iframe/ecf4e4fc0387)
+[Python (Basic) – HackerRank](https://www.hackerrank.com/certificates/iframe/ecf4e4fc0387)
 
 ---
 
