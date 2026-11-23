@@ -102,9 +102,10 @@ Long-Term Direction
 
 ---
 
-🤝 Connect With Me
+### 🌐 Connect With Me
 
-- GitHub: "@abubakar1012" (https://github.com/abubakar1012)
+- 💻 **GitHub:** [github.com/abubakar1012](https://github.com/abubakar1012)
+- 🛡️ **Hack The Box:** [View My HTB Profile](https://profile.hackthebox.com/profile/019ca368-0092-7080-bbb3-526bb07e8490)
 
 ---
 
