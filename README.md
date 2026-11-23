@@ -86,7 +86,14 @@ Long-Term Direction
 - Hack The Box: Hands-on penetration testing challenges.
 - DVWA: Web application security practice.
 - VirtualBox: Virtualized lab environments.
+---
 
+### 🏴‍☠️ Cybersecurity Training
+
+- Hack The Box Academy — Skilled Rank
+- Completing structured learning modules and practical challenges.
+- Developing hands-on penetration testing skills.
+  
 ---
 
 🏆 Certifications
